@@ -5,7 +5,7 @@
 
 - 📫 How to reach me ...
 I also enjoy writing a blog about fitness and personal growth[Link:http://fitonation.com/].
-To reach out to me you can mail me at : iamkhandewri@gmail.com
+You can contact me at : iamkhandewri@gmail.com
 
 
 <!---
