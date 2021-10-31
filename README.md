@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VibhutiDKhanduri
 - 👀 I’m interested in Machine Learning, Natural Language Processing, Machine Learning for Information Security,Web Development
-- 🌱 I’m currently researching Document Classification Models  
+- 🌱 I’m currently working on building tools to efficiently classify documents.  
 - 💞️ I’m looking to collaborate on Web Development, Natural Language Processing Tasks.
 
 - 📫 How to reach me ...
